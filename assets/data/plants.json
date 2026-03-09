@@ -1,0 +1,1889 @@
+[
+  {
+    "name": "Carrot",
+    "category": "Vegetable",
+    "difficulty": 2,
+    "sowIndoors": [],
+    "sowOutdoors": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "July"
+    ],
+    "harvest": [
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November"
+    ],
+    "spacing_cm": 5,
+    "sun": "Full Sun",
+    "soil": "Light, stone-free, well-drained",
+    "notes": "Direct sow little and often for a longer harvest. Avoid fresh manure to reduce forked roots."
+  },
+  {
+    "name": "Potato",
+    "category": "Vegetable",
+    "difficulty": 1,
+    "sowIndoors": [],
+    "sowOutdoors": [
+      "March",
+      "April"
+    ],
+    "harvest": [
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "spacing_cm": 30,
+    "sun": "Full Sun",
+    "soil": "Fertile, moisture-retentive, well-drained",
+    "notes": "Usually planted as seed potatoes. Earth up stems as they grow to protect tubers."
+  },
+  {
+    "name": "Tomato",
+    "category": "Vegetable",
+    "difficulty": 2,
+    "sowIndoors": [
+      "February",
+      "March",
+      "April"
+    ],
+    "sowOutdoors": [
+      "May"
+    ],
+    "harvest": [
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "spacing_cm": 45,
+    "sun": "Full Sun",
+    "soil": "Rich, fertile, well-drained",
+    "notes": "Start under cover in the UK. Tie in and remove sideshoots on cordon varieties."
+  },
+  {
+    "name": "Lettuce",
+    "category": "Vegetable",
+    "difficulty": 1,
+    "sowIndoors": [
+      "February",
+      "March",
+      "April"
+    ],
+    "sowOutdoors": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August"
+    ],
+    "harvest": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "spacing_cm": 25,
+    "sun": "Full Sun or Partial Shade",
+    "soil": "Moisture-retentive, fertile",
+    "notes": "Succession sow every few weeks for a steady supply."
+  },
+  {
+    "name": "Onion",
+    "category": "Vegetable",
+    "difficulty": 1,
+    "sowIndoors": [
+      "January",
+      "February"
+    ],
+    "sowOutdoors": [
+      "March",
+      "April"
+    ],
+    "harvest": [
+      "July",
+      "August",
+      "September"
+    ],
+    "spacing_cm": 10,
+    "sun": "Full Sun",
+    "soil": "Fertile, free-draining",
+    "notes": "Often grown from sets in spring for reliable crops."
+  },
+  {
+    "name": "Garlic",
+    "category": "Vegetable",
+    "difficulty": 1,
+    "sowIndoors": [],
+    "sowOutdoors": [
+      "October",
+      "November",
+      "February",
+      "March"
+    ],
+    "harvest": [
+      "June",
+      "July"
+    ],
+    "spacing_cm": 15,
+    "sun": "Full Sun",
+    "soil": "Free-draining, fertile",
+    "notes": "Plant individual cloves in autumn or late winter."
+  },
+  {
+    "name": "Leek",
+    "category": "Vegetable",
+    "difficulty": 2,
+    "sowIndoors": [
+      "January",
+      "February",
+      "March"
+    ],
+    "sowOutdoors": [
+      "April",
+      "May"
+    ],
+    "harvest": [
+      "August",
+      "September",
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "spacing_cm": 15,
+    "sun": "Full Sun",
+    "soil": "Rich, moisture-retentive",
+    "notes": "Long season crop. Plant deeply for longer blanched stems."
+  },
+  {
+    "name": "Radish",
+    "category": "Vegetable",
+    "difficulty": 1,
+    "sowIndoors": [],
+    "sowOutdoors": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "harvest": [
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "spacing_cm": 5,
+    "sun": "Full Sun or Partial Shade",
+    "soil": "Moist, free-draining",
+    "notes": "Fast and easy crop. Sow little and often to avoid gluts."
+  },
+  {
+    "name": "Beetroot",
+    "category": "Vegetable",
+    "difficulty": 1,
+    "sowIndoors": [
+      "March",
+      "April"
+    ],
+    "sowOutdoors": [
+      "April",
+      "May",
+      "June",
+      "July"
+    ],
+    "harvest": [
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "spacing_cm": 10,
+    "sun": "Full Sun",
+    "soil": "Fertile, free-draining",
+    "notes": "Leaves are also edible. Harvest small roots for best flavour."
+  },
+  {
+    "name": "Turnip",
+    "category": "Vegetable",
+    "difficulty": 1,
+    "sowIndoors": [],
+    "sowOutdoors": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August"
+    ],
+    "harvest": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "spacing_cm": 10,
+    "sun": "Full Sun",
+    "soil": "Moist, fertile",
+    "notes": "Quick crop; both roots and greens can be eaten."
+  },
+  {
+    "name": "Parsnip",
+    "category": "Vegetable",
+    "difficulty": 3,
+    "sowIndoors": [],
+    "sowOutdoors": [
+      "March",
+      "April",
+      "May"
+    ],
+    "harvest": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "spacing_cm": 15,
+    "sun": "Full Sun",
+    "soil": "Deep, stone-free, free-draining",
+    "notes": "Slow to germinate and prefers fresh seed. Flavour improves after frost."
+  },
+  {
+    "name": "Cabbage",
+    "category": "Vegetable",
+    "difficulty": 2,
+    "sowIndoors": [
+      "February",
+      "March",
+      "April"
+    ],
+    "sowOutdoors": [
+      "April",
+      "May",
+      "June",
+      "July"
+    ],
+    "harvest": [
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December"
+    ],
+    "spacing_cm": 45,
+    "sun": "Full Sun",
+    "soil": "Firm, fertile, moisture-retentive",
+    "notes": "Needs brassica protection where pigeons or cabbage white butterflies are a problem."
+  },
+  {
+    "name": "Broccoli",
+    "category": "Vegetable",
+    "difficulty": 2,
+    "sowIndoors": [
+      "March",
+      "April"
+    ],
+    "sowOutdoors": [
+      "April",
+      "May",
+      "June"
+    ],
+    "harvest": [
+      "August",
+      "September",
+      "October"
+    ],
+    "spacing_cm": 45,
+    "sun": "Full Sun",
+    "soil": "Firm, fertile",
+    "notes": "Calabrese type is the usual summer broccoli grown on allotments."
+  },
+  {
+    "name": "Cauliflower",
+    "category": "Vegetable",
+    "difficulty": 3,
+    "sowIndoors": [
+      "February",
+      "March",
+      "April"
+    ],
+    "sowOutdoors": [
+      "April",
+      "May",
+      "June"
+    ],
+    "harvest": [
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November"
+    ],
+    "spacing_cm": 60,
+    "sun": "Full Sun",
+    "soil": "Rich, firm, moisture-retentive",
+    "notes": "Can be fussy; keep growth steady with consistent watering."
+  },
+  {
+    "name": "Kale",
+    "category": "Vegetable",
+    "difficulty": 1,
+    "sowIndoors": [
+      "March",
+      "April"
+    ],
+    "sowOutdoors": [
+      "April",
+      "May",
+      "June"
+    ],
+    "harvest": [
+      "September",
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "spacing_cm": 45,
+    "sun": "Full Sun",
+    "soil": "Firm, fertile",
+    "notes": "Very hardy and productive through winter."
+  },
+  {
+    "name": "Brussels Sprouts",
+    "category": "Vegetable",
+    "difficulty": 2,
+    "sowIndoors": [
+      "March",
+      "April"
+    ],
+    "sowOutdoors": [
+      "April",
+      "May"
+    ],
+    "harvest": [
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "spacing_cm": 60,
+    "sun": "Full Sun",
+    "soil": "Firm, fertile",
+    "notes": "Long season brassica; stake in windy sites."
+  },
+  {
+    "name": "Peas",
+    "category": "Vegetable",
+    "difficulty": 2,
+    "sowIndoors": [
+      "February",
+      "March"
+    ],
+    "sowOutdoors": [
+      "March",
+      "April",
+      "May",
+      "June"
+    ],
+    "harvest": [
+      "June",
+      "July",
+      "August"
+    ],
+    "spacing_cm": 5,
+    "sun": "Full Sun",
+    "soil": "Moisture-retentive, fertile",
+    "notes": "Support with netting or twiggy sticks. Protect seedlings from mice and birds."
+  },
+  {
+    "name": "Broad Beans",
+    "category": "Vegetable",
+    "difficulty": 1,
+    "sowIndoors": [
+      "February"
+    ],
+    "sowOutdoors": [
+      "October",
+      "November",
+      "February",
+      "March"
+    ],
+    "harvest": [
+      "May",
+      "June",
+      "July"
+    ],
+    "spacing_cm": 20,
+    "sun": "Full Sun",
+    "soil": "Moisture-retentive, fertile",
+    "notes": "Very reliable in the UK. Pinch out tops if blackfly becomes a problem."
+  },
+  {
+    "name": "Runner Beans",
+    "category": "Vegetable",
+    "difficulty": 2,
+    "sowIndoors": [
+      "April",
+      "May"
+    ],
+    "sowOutdoors": [
+      "May",
+      "June"
+    ],
+    "harvest": [
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "spacing_cm": 30,
+    "sun": "Full Sun",
+    "soil": "Rich, moisture-retentive",
+    "notes": "Climbing crop that needs sturdy supports and regular picking."
+  },
+  {
+    "name": "French Beans",
+    "category": "Vegetable",
+    "difficulty": 2,
+    "sowIndoors": [
+      "April",
+      "May"
+    ],
+    "sowOutdoors": [
+      "May",
+      "June",
+      "July"
+    ],
+    "harvest": [
+      "July",
+      "August",
+      "September"
+    ],
+    "spacing_cm": 20,
+    "sun": "Full Sun",
+    "soil": "Warm, free-draining, fertile",
+    "notes": "Bush and climbing forms are available; avoid sowing into cold soil."
+  },
+  {
+    "name": "Courgette",
+    "category": "Vegetable",
+    "difficulty": 1,
+    "sowIndoors": [
+      "April",
+      "May"
+    ],
+    "sowOutdoors": [
+      "May",
+      "June"
+    ],
+    "harvest": [
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "spacing_cm": 90,
+    "sun": "Full Sun",
+    "soil": "Rich, moisture-retentive",
+    "notes": "Very productive. Pick while fruits are small and tender."
+  },
+  {
+    "name": "Pumpkin",
+    "category": "Vegetable",
+    "difficulty": 2,
+    "sowIndoors": [
+      "April",
+      "May"
+    ],
+    "sowOutdoors": [
+      "May"
+    ],
+    "harvest": [
+      "September",
+      "October"
+    ],
+    "spacing_cm": 120,
+    "sun": "Full Sun",
+    "soil": "Rich, moisture-retentive",
+    "notes": "Needs plenty of space and warmth. Cure fruits before storing."
+  },
+  {
+    "name": "Cucumber",
+    "category": "Vegetable",
+    "difficulty": 2,
+    "sowIndoors": [
+      "April",
+      "May"
+    ],
+    "sowOutdoors": [
+      "May",
+      "June"
+    ],
+    "harvest": [
+      "July",
+      "August",
+      "September"
+    ],
+    "spacing_cm": 45,
+    "sun": "Full Sun",
+    "soil": "Rich, moisture-retentive",
+    "notes": "Best under cover in much of the UK, though outdoor ridge types also crop well."
+  },
+  {
+    "name": "Pepper",
+    "category": "Vegetable",
+    "difficulty": 3,
+    "sowIndoors": [
+      "February",
+      "March"
+    ],
+    "sowOutdoors": [
+      "May"
+    ],
+    "harvest": [
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "spacing_cm": 40,
+    "sun": "Full Sun",
+    "soil": "Rich, free-draining",
+    "notes": "Usually needs greenhouse or very warm sheltered conditions in the UK."
+  },
+  {
+    "name": "Aubergine",
+    "category": "Vegetable",
+    "difficulty": 3,
+    "sowIndoors": [
+      "January",
+      "February",
+      "March"
+    ],
+    "sowOutdoors": [
+      "May"
+    ],
+    "harvest": [
+      "July",
+      "August",
+      "September"
+    ],
+    "spacing_cm": 45,
+    "sun": "Full Sun",
+    "soil": "Rich, free-draining",
+    "notes": "Heat-loving crop best grown under glass or in a very warm position."
+  },
+  {
+    "name": "Sweetcorn",
+    "category": "Vegetable",
+    "difficulty": 2,
+    "sowIndoors": [
+      "April",
+      "May"
+    ],
+    "sowOutdoors": [
+      "May"
+    ],
+    "harvest": [
+      "August",
+      "September"
+    ],
+    "spacing_cm": 45,
+    "sun": "Full Sun",
+    "soil": "Rich, moisture-retentive",
+    "notes": "Grow in blocks rather than single rows to improve pollination."
+  },
+  {
+    "name": "Spinach",
+    "category": "Vegetable",
+    "difficulty": 2,
+    "sowIndoors": [
+      "February",
+      "March"
+    ],
+    "sowOutdoors": [
+      "March",
+      "April",
+      "May",
+      "August",
+      "September"
+    ],
+    "harvest": [
+      "May",
+      "June",
+      "July",
+      "September",
+      "October",
+      "November"
+    ],
+    "spacing_cm": 10,
+    "sun": "Full Sun or Partial Shade",
+    "soil": "Moisture-retentive, fertile",
+    "notes": "Can bolt in heat, so spring and late-summer sowings are often best."
+  },
+  {
+    "name": "Chard",
+    "category": "Vegetable",
+    "difficulty": 1,
+    "sowIndoors": [
+      "March",
+      "April"
+    ],
+    "sowOutdoors": [
+      "April",
+      "May",
+      "June",
+      "July"
+    ],
+    "harvest": [
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November"
+    ],
+    "spacing_cm": 30,
+    "sun": "Full Sun or Partial Shade",
+    "soil": "Fertile, moisture-retentive",
+    "notes": "Cut-and-come-again leaves over a long season."
+  },
+  {
+    "name": "Rocket",
+    "category": "Vegetable",
+    "difficulty": 1,
+    "sowIndoors": [],
+    "sowOutdoors": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "harvest": [
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "spacing_cm": 10,
+    "sun": "Full Sun or Partial Shade",
+    "soil": "Moist, free-draining",
+    "notes": "Fast salad crop; can bolt in hot dry weather."
+  },
+  {
+    "name": "Pak Choi",
+    "category": "Vegetable",
+    "difficulty": 2,
+    "sowIndoors": [
+      "April"
+    ],
+    "sowOutdoors": [
+      "May",
+      "June",
+      "July",
+      "August"
+    ],
+    "harvest": [
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "spacing_cm": 20,
+    "sun": "Full Sun or Partial Shade",
+    "soil": "Moisture-retentive, fertile",
+    "notes": "Late-summer sowings often perform best as spring crops may bolt."
+  },
+  {
+    "name": "Spring Onion",
+    "category": "Vegetable",
+    "difficulty": 1,
+    "sowIndoors": [],
+    "sowOutdoors": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August"
+    ],
+    "harvest": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "spacing_cm": 3,
+    "sun": "Full Sun",
+    "soil": "Free-draining, fertile",
+    "notes": "Excellent quick crop for gaps in beds and containers."
+  },
+  {
+    "name": "Shallot",
+    "category": "Vegetable",
+    "difficulty": 1,
+    "sowIndoors": [],
+    "sowOutdoors": [
+      "February",
+      "March"
+    ],
+    "harvest": [
+      "July",
+      "August"
+    ],
+    "spacing_cm": 18,
+    "sun": "Full Sun",
+    "soil": "Free-draining, fertile",
+    "notes": "Usually grown from sets. Lift and dry before storing."
+  },
+  {
+    "name": "Celery",
+    "category": "Vegetable",
+    "difficulty": 3,
+    "sowIndoors": [
+      "February",
+      "March",
+      "April"
+    ],
+    "sowOutdoors": [
+      "May",
+      "June"
+    ],
+    "harvest": [
+      "August",
+      "September",
+      "October"
+    ],
+    "spacing_cm": 30,
+    "sun": "Full Sun",
+    "soil": "Rich, moisture-retentive",
+    "notes": "Needs steady moisture and feeding for crisp stems."
+  },
+  {
+    "name": "Fennel",
+    "category": "Vegetable",
+    "difficulty": 2,
+    "sowIndoors": [
+      "April"
+    ],
+    "sowOutdoors": [
+      "May",
+      "June",
+      "July"
+    ],
+    "harvest": [
+      "August",
+      "September",
+      "October"
+    ],
+    "spacing_cm": 30,
+    "sun": "Full Sun",
+    "soil": "Free-draining, fertile",
+    "notes": "Florence fennel dislikes root disturbance; later sowings reduce bolting."
+  },
+  {
+    "name": "Artichoke",
+    "category": "Vegetable",
+    "difficulty": 2,
+    "sowIndoors": [
+      "February",
+      "March"
+    ],
+    "sowOutdoors": [
+      "April",
+      "May"
+    ],
+    "harvest": [
+      "July",
+      "August",
+      "September"
+    ],
+    "spacing_cm": 90,
+    "sun": "Full Sun",
+    "soil": "Rich, well-drained",
+    "notes": "Usually globe artichoke; a perennial that needs space."
+  },
+  {
+    "name": "Rhubarb",
+    "category": "Vegetable",
+    "difficulty": 1,
+    "sowIndoors": [],
+    "sowOutdoors": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "harvest": [
+      "April",
+      "May",
+      "June",
+      "July"
+    ],
+    "spacing_cm": 90,
+    "sun": "Full Sun or Partial Shade",
+    "soil": "Rich, moisture-retentive",
+    "notes": "Usually planted as crowns. Do not harvest heavily in the first year."
+  },
+  {
+    "name": "Swede",
+    "category": "Vegetable",
+    "difficulty": 2,
+    "sowIndoors": [],
+    "sowOutdoors": [
+      "May",
+      "June"
+    ],
+    "harvest": [
+      "September",
+      "October",
+      "November",
+      "December",
+      "January"
+    ],
+    "spacing_cm": 25,
+    "sun": "Full Sun",
+    "soil": "Firm, fertile",
+    "notes": "Hardy root crop for autumn and winter use."
+  },
+  {
+    "name": "Kohlrabi",
+    "category": "Vegetable",
+    "difficulty": 2,
+    "sowIndoors": [
+      "March",
+      "April"
+    ],
+    "sowOutdoors": [
+      "April",
+      "May",
+      "June",
+      "July"
+    ],
+    "harvest": [
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "spacing_cm": 15,
+    "sun": "Full Sun",
+    "soil": "Moisture-retentive, fertile",
+    "notes": "Harvest while young and tennis-ball sized for the best texture."
+  },
+  {
+    "name": "Endive",
+    "category": "Vegetable",
+    "difficulty": 2,
+    "sowIndoors": [
+      "March",
+      "April"
+    ],
+    "sowOutdoors": [
+      "May",
+      "June",
+      "July"
+    ],
+    "harvest": [
+      "July",
+      "August",
+      "September",
+      "October",
+      "November"
+    ],
+    "spacing_cm": 30,
+    "sun": "Full Sun or Partial Shade",
+    "soil": "Moisture-retentive, fertile",
+    "notes": "Useful autumn salad crop; some types can be blanched."
+  },
+  {
+    "name": "Chicory",
+    "category": "Vegetable",
+    "difficulty": 2,
+    "sowIndoors": [],
+    "sowOutdoors": [
+      "May",
+      "June",
+      "July"
+    ],
+    "harvest": [
+      "August",
+      "September",
+      "October",
+      "November"
+    ],
+    "spacing_cm": 30,
+    "sun": "Full Sun",
+    "soil": "Free-draining, fertile",
+    "notes": "Leaf chicory is easy outdoors; forcing chicory needs extra steps."
+  },
+  {
+    "name": "Strawberry",
+    "category": "Fruit",
+    "difficulty": 1,
+    "sowIndoors": [],
+    "sowOutdoors": [
+      "March",
+      "April",
+      "September",
+      "October"
+    ],
+    "harvest": [
+      "June",
+      "July"
+    ],
+    "spacing_cm": 30,
+    "sun": "Full Sun",
+    "soil": "Fertile, moisture-retentive, free-draining",
+    "notes": "Usually planted as runners or pot-grown plants rather than from seed."
+  },
+  {
+    "name": "Raspberry",
+    "category": "Fruit",
+    "difficulty": 2,
+    "sowIndoors": [],
+    "sowOutdoors": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "harvest": [
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "spacing_cm": 45,
+    "sun": "Full Sun or Partial Shade",
+    "soil": "Moisture-retentive, slightly acidic to neutral",
+    "notes": "Plant canes in winter. Summer and autumn-fruiting types crop at different times."
+  },
+  {
+    "name": "Blueberry",
+    "category": "Fruit",
+    "difficulty": 2,
+    "sowIndoors": [],
+    "sowOutdoors": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "harvest": [
+      "July",
+      "August"
+    ],
+    "spacing_cm": 120,
+    "sun": "Full Sun or Partial Shade",
+    "soil": "Acidic, moisture-retentive, free-draining",
+    "notes": "Needs ericaceous soil or compost. Excellent in containers."
+  },
+  {
+    "name": "Blackberry",
+    "category": "Fruit",
+    "difficulty": 1,
+    "sowIndoors": [],
+    "sowOutdoors": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "harvest": [
+      "August",
+      "September"
+    ],
+    "spacing_cm": 180,
+    "sun": "Full Sun or Partial Shade",
+    "soil": "Fertile, moisture-retentive",
+    "notes": "Train thornless cultivated forms on wires for easier picking."
+  },
+  {
+    "name": "Gooseberry",
+    "category": "Fruit",
+    "difficulty": 2,
+    "sowIndoors": [],
+    "sowOutdoors": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "harvest": [
+      "June",
+      "July"
+    ],
+    "spacing_cm": 120,
+    "sun": "Full Sun or Partial Shade",
+    "soil": "Fertile, moisture-retentive",
+    "notes": "Hardy bush fruit. Net plants if birds are a problem."
+  },
+  {
+    "name": "Apple",
+    "category": "Fruit",
+    "difficulty": 2,
+    "sowIndoors": [],
+    "sowOutdoors": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "harvest": [
+      "August",
+      "September",
+      "October"
+    ],
+    "spacing_cm": 300,
+    "sun": "Full Sun",
+    "soil": "Fertile, moisture-retentive, well-drained",
+    "notes": "Usually planted as bare-root trees in winter. Many varieties need a pollination partner."
+  },
+  {
+    "name": "Pear",
+    "category": "Fruit",
+    "difficulty": 2,
+    "sowIndoors": [],
+    "sowOutdoors": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "harvest": [
+      "September",
+      "October"
+    ],
+    "spacing_cm": 300,
+    "sun": "Full Sun",
+    "soil": "Fertile, free-draining",
+    "notes": "Best in a warm sheltered site. Usually planted as bare-root trees."
+  },
+  {
+    "name": "Plum",
+    "category": "Fruit",
+    "difficulty": 2,
+    "sowIndoors": [],
+    "sowOutdoors": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "harvest": [
+      "July",
+      "August",
+      "September"
+    ],
+    "spacing_cm": 300,
+    "sun": "Full Sun",
+    "soil": "Fertile, moisture-retentive",
+    "notes": "Flowers early, so late frost can affect crops in colder areas."
+  },
+  {
+    "name": "Cherry",
+    "category": "Fruit",
+    "difficulty": 2,
+    "sowIndoors": [],
+    "sowOutdoors": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "harvest": [
+      "June",
+      "July",
+      "August"
+    ],
+    "spacing_cm": 300,
+    "sun": "Full Sun",
+    "soil": "Fertile, well-drained",
+    "notes": "Grow in a sunny sheltered site. Bird protection is often needed."
+  },
+  {
+    "name": "Apricot",
+    "category": "Fruit",
+    "difficulty": 3,
+    "sowIndoors": [],
+    "sowOutdoors": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "harvest": [
+      "July",
+      "August"
+    ],
+    "spacing_cm": 300,
+    "sun": "Full Sun",
+    "soil": "Free-draining, fertile",
+    "notes": "Best against a warm wall or under cover in many UK gardens."
+  },
+  {
+    "name": "Peach",
+    "category": "Fruit",
+    "difficulty": 3,
+    "sowIndoors": [],
+    "sowOutdoors": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "harvest": [
+      "July",
+      "August",
+      "September"
+    ],
+    "spacing_cm": 300,
+    "sun": "Full Sun",
+    "soil": "Free-draining, fertile",
+    "notes": "Needs a warm sheltered spot, often best trained against a wall."
+  },
+  {
+    "name": "Nectarine",
+    "category": "Fruit",
+    "difficulty": 3,
+    "sowIndoors": [],
+    "sowOutdoors": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "harvest": [
+      "July",
+      "August",
+      "September"
+    ],
+    "spacing_cm": 300,
+    "sun": "Full Sun",
+    "soil": "Free-draining, fertile",
+    "notes": "Warm-site fruit tree; often grown under cover or against a sunny wall."
+  },
+  {
+    "name": "Blackcurrant",
+    "category": "Fruit",
+    "difficulty": 1,
+    "sowIndoors": [],
+    "sowOutdoors": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "harvest": [
+      "July",
+      "August"
+    ],
+    "spacing_cm": 150,
+    "sun": "Full Sun or Partial Shade",
+    "soil": "Moisture-retentive, fertile",
+    "notes": "Very productive and straightforward bush fruit for the UK."
+  },
+  {
+    "name": "Redcurrant",
+    "category": "Fruit",
+    "difficulty": 1,
+    "sowIndoors": [],
+    "sowOutdoors": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "harvest": [
+      "July",
+      "August"
+    ],
+    "spacing_cm": 150,
+    "sun": "Full Sun or Partial Shade",
+    "soil": "Moisture-retentive, fertile",
+    "notes": "Can be grown as bushes, cordons or fans."
+  },
+  {
+    "name": "Whitecurrant",
+    "category": "Fruit",
+    "difficulty": 1,
+    "sowIndoors": [],
+    "sowOutdoors": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "harvest": [
+      "July",
+      "August"
+    ],
+    "spacing_cm": 150,
+    "sun": "Full Sun or Partial Shade",
+    "soil": "Moisture-retentive, fertile",
+    "notes": "Very similar culture to redcurrants, with sweeter fruits."
+  },
+  {
+    "name": "Grape",
+    "category": "Fruit",
+    "difficulty": 3,
+    "sowIndoors": [],
+    "sowOutdoors": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "harvest": [
+      "September",
+      "October"
+    ],
+    "spacing_cm": 150,
+    "sun": "Full Sun",
+    "soil": "Free-draining",
+    "notes": "Outdoor grapes need a very warm sunny site; greenhouse vines are easier."
+  },
+  {
+    "name": "Fig",
+    "category": "Fruit",
+    "difficulty": 2,
+    "sowIndoors": [],
+    "sowOutdoors": [
+      "March",
+      "April",
+      "September",
+      "October"
+    ],
+    "harvest": [
+      "August",
+      "September"
+    ],
+    "spacing_cm": 250,
+    "sun": "Full Sun",
+    "soil": "Free-draining",
+    "notes": "Needs a warm sheltered position; restrict roots to improve fruiting."
+  },
+  {
+    "name": "Melon",
+    "category": "Fruit",
+    "difficulty": 3,
+    "sowIndoors": [
+      "March",
+      "April"
+    ],
+    "sowOutdoors": [
+      "May"
+    ],
+    "harvest": [
+      "August",
+      "September"
+    ],
+    "spacing_cm": 60,
+    "sun": "Full Sun",
+    "soil": "Rich, moisture-retentive",
+    "notes": "Usually grown in a greenhouse or polytunnel in the UK."
+  },
+  {
+    "name": "Watermelon",
+    "category": "Fruit",
+    "difficulty": 3,
+    "sowIndoors": [
+      "March",
+      "April"
+    ],
+    "sowOutdoors": [
+      "May"
+    ],
+    "harvest": [
+      "August",
+      "September"
+    ],
+    "spacing_cm": 90,
+    "sun": "Full Sun",
+    "soil": "Rich, moisture-retentive",
+    "notes": "Needs high heat; generally best under cover in the UK."
+  },
+  {
+    "name": "Kiwi",
+    "category": "Fruit",
+    "difficulty": 3,
+    "sowIndoors": [],
+    "sowOutdoors": [
+      "October",
+      "November",
+      "March",
+      "April"
+    ],
+    "harvest": [
+      "October",
+      "November"
+    ],
+    "spacing_cm": 300,
+    "sun": "Full Sun or Partial Shade",
+    "soil": "Free-draining, fertile",
+    "notes": "Needs a sheltered spot and strong support. Some varieties need male and female plants."
+  },
+  {
+    "name": "Mint",
+    "category": "Herb",
+    "difficulty": 1,
+    "sowIndoors": [
+      "March",
+      "April"
+    ],
+    "sowOutdoors": [
+      "April",
+      "May"
+    ],
+    "harvest": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "spacing_cm": 30,
+    "sun": "Full Sun or Partial Shade",
+    "soil": "Moisture-retentive",
+    "notes": "Very easy and vigorous; best grown in a pot or contained bed."
+  },
+  {
+    "name": "Basil",
+    "category": "Herb",
+    "difficulty": 2,
+    "sowIndoors": [
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "sowOutdoors": [
+      "May",
+      "June"
+    ],
+    "harvest": [
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "spacing_cm": 20,
+    "sun": "Full Sun",
+    "soil": "Free-draining, fertile",
+    "notes": "Tender herb that likes warmth. Pinch out tips to keep plants bushy."
+  },
+  {
+    "name": "Parsley",
+    "category": "Herb",
+    "difficulty": 2,
+    "sowIndoors": [
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "sowOutdoors": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "July"
+    ],
+    "harvest": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November"
+    ],
+    "spacing_cm": 20,
+    "sun": "Full Sun or Partial Shade",
+    "soil": "Moisture-retentive, fertile",
+    "notes": "Slow to germinate but reliable once established."
+  },
+  {
+    "name": "Coriander",
+    "category": "Herb",
+    "difficulty": 2,
+    "sowIndoors": [
+      "March",
+      "April"
+    ],
+    "sowOutdoors": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August"
+    ],
+    "harvest": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "spacing_cm": 15,
+    "sun": "Full Sun or Partial Shade",
+    "soil": "Free-draining",
+    "notes": "Can bolt quickly in heat; sow regularly for fresh leaves."
+  },
+  {
+    "name": "Thyme",
+    "category": "Herb",
+    "difficulty": 1,
+    "sowIndoors": [
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "sowOutdoors": [
+      "May"
+    ],
+    "harvest": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "spacing_cm": 25,
+    "sun": "Full Sun",
+    "soil": "Free-draining, poor to moderately fertile",
+    "notes": "Woody perennial herb that prefers a sunny dry position."
+  },
+  {
+    "name": "Rosemary",
+    "category": "Herb",
+    "difficulty": 2,
+    "sowIndoors": [
+      "January",
+      "February",
+      "March"
+    ],
+    "sowOutdoors": [
+      "May"
+    ],
+    "harvest": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November"
+    ],
+    "spacing_cm": 60,
+    "sun": "Full Sun",
+    "soil": "Free-draining",
+    "notes": "Best in a warm sheltered site; dislikes winter wet."
+  },
+  {
+    "name": "Sage",
+    "category": "Herb",
+    "difficulty": 1,
+    "sowIndoors": [
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "sowOutdoors": [
+      "May"
+    ],
+    "harvest": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "spacing_cm": 40,
+    "sun": "Full Sun",
+    "soil": "Free-draining",
+    "notes": "Short-lived woody herb; replace plants every few years if they become leggy."
+  },
+  {
+    "name": "Oregano",
+    "category": "Herb",
+    "difficulty": 1,
+    "sowIndoors": [
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "sowOutdoors": [
+      "May"
+    ],
+    "harvest": [
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "spacing_cm": 30,
+    "sun": "Full Sun",
+    "soil": "Free-draining",
+    "notes": "Easy perennial herb; strongest flavour in sunny dry conditions."
+  },
+  {
+    "name": "Dill",
+    "category": "Herb",
+    "difficulty": 2,
+    "sowIndoors": [
+      "March",
+      "April"
+    ],
+    "sowOutdoors": [
+      "March",
+      "April",
+      "May",
+      "June",
+      "July"
+    ],
+    "harvest": [
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "spacing_cm": 20,
+    "sun": "Full Sun",
+    "soil": "Free-draining, fertile",
+    "notes": "Does best direct sown, as it dislikes root disturbance."
+  },
+  {
+    "name": "Chives",
+    "category": "Herb",
+    "difficulty": 1,
+    "sowIndoors": [
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "sowOutdoors": [
+      "April",
+      "May"
+    ],
+    "harvest": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "spacing_cm": 20,
+    "sun": "Full Sun or Partial Shade",
+    "soil": "Moisture-retentive, fertile",
+    "notes": "Hardy clump-forming herb; divide plants every few years."
+  },
+  {
+    "name": "Tarragon",
+    "category": "Herb",
+    "difficulty": 2,
+    "sowIndoors": [
+      "March",
+      "April"
+    ],
+    "sowOutdoors": [
+      "May"
+    ],
+    "harvest": [
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "spacing_cm": 45,
+    "sun": "Full Sun",
+    "soil": "Free-draining",
+    "notes": "French tarragon is usually grown from plants rather than seed."
+  },
+  {
+    "name": "Lavender",
+    "category": "Herb",
+    "difficulty": 2,
+    "sowIndoors": [
+      "February",
+      "March",
+      "April"
+    ],
+    "sowOutdoors": [
+      "May"
+    ],
+    "harvest": [
+      "June",
+      "July",
+      "August"
+    ],
+    "spacing_cm": 45,
+    "sun": "Full Sun",
+    "soil": "Free-draining, poor to moderately fertile",
+    "notes": "Needs excellent drainage and a sunny site."
+  },
+  {
+    "name": "Marjoram",
+    "category": "Herb",
+    "difficulty": 1,
+    "sowIndoors": [
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
+    "sowOutdoors": [
+      "May"
+    ],
+    "harvest": [
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "spacing_cm": 25,
+    "sun": "Full Sun",
+    "soil": "Free-draining",
+    "notes": "Tender to half-hardy depending on type; great in containers."
+  },
+  {
+    "name": "Sorrel",
+    "category": "Herb",
+    "difficulty": 1,
+    "sowIndoors": [
+      "March",
+      "April"
+    ],
+    "sowOutdoors": [
+      "April",
+      "May",
+      "June"
+    ],
+    "harvest": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "spacing_cm": 30,
+    "sun": "Full Sun or Partial Shade",
+    "soil": "Moisture-retentive",
+    "notes": "Perennial leaf crop with a sharp lemony flavour."
+  },
+  {
+    "name": "Watercress",
+    "category": "Herb",
+    "difficulty": 2,
+    "sowIndoors": [
+      "March",
+      "April"
+    ],
+    "sowOutdoors": [
+      "April",
+      "May",
+      "June",
+      "July",
+      "August"
+    ],
+    "harvest": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "spacing_cm": 10,
+    "sun": "Full Sun or Partial Shade",
+    "soil": "Very moist or shallow water",
+    "notes": "Best with constant moisture; can be grown in trays or very damp ground."
+  },
+  {
+    "name": "Lemon Balm",
+    "category": "Herb",
+    "difficulty": 1,
+    "sowIndoors": [
+      "March",
+      "April"
+    ],
+    "sowOutdoors": [
+      "May"
+    ],
+    "harvest": [
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "spacing_cm": 40,
+    "sun": "Full Sun or Partial Shade",
+    "soil": "Moisture-retentive, free-draining",
+    "notes": "Easy perennial; trim regularly to keep fresh new growth coming."
+  },
+  {
+    "name": "Bay",
+    "category": "Herb",
+    "difficulty": 2,
+    "sowIndoors": [],
+    "sowOutdoors": [
+      "March",
+      "April",
+      "May",
+      "September",
+      "October"
+    ],
+    "harvest": [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December"
+    ],
+    "spacing_cm": 100,
+    "sun": "Full Sun or Partial Shade",
+    "soil": "Free-draining",
+    "notes": "Usually planted as a young shrub rather than sown. Leaves can be picked year-round."
+  },
+  {
+    "name": "Lovage",
+    "category": "Herb",
+    "difficulty": 2,
+    "sowIndoors": [
+      "March",
+      "April"
+    ],
+    "sowOutdoors": [
+      "April",
+      "May"
+    ],
+    "harvest": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "spacing_cm": 60,
+    "sun": "Full Sun or Partial Shade",
+    "soil": "Rich, moisture-retentive",
+    "notes": "Tall perennial herb with strong celery-like flavour."
+  },
+  {
+    "name": "Hyssop",
+    "category": "Herb",
+    "difficulty": 2,
+    "sowIndoors": [
+      "March",
+      "April"
+    ],
+    "sowOutdoors": [
+      "May"
+    ],
+    "harvest": [
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "spacing_cm": 30,
+    "sun": "Full Sun",
+    "soil": "Free-draining",
+    "notes": "Aromatic shrubby herb that also attracts pollinators."
+  },
+  {
+    "name": "Chamomile",
+    "category": "Herb",
+    "difficulty": 1,
+    "sowIndoors": [
+      "March",
+      "April"
+    ],
+    "sowOutdoors": [
+      "May"
+    ],
+    "harvest": [
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "spacing_cm": 20,
+    "sun": "Full Sun",
+    "soil": "Free-draining",
+    "notes": "German chamomile is annual; Roman chamomile is perennial."
+  }
+]
